@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1>Nextjs</h1>;
+  return <h1 className="text-accent-1">Nextjs</h1>;
 }
